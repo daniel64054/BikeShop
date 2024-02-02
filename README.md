@@ -127,9 +127,9 @@ operações de negócios necessária
 
  ### Modelo Conceitual
 
- !["modelo coneceitual de banco de dados"](caso Bikeshop.png)
+ !["modelo coneceitual de banco de dados"](modeloconseitual.png)
 
 
 ### Normalização feita no Excel. 
 #### Foram realizadas 1 normalizações
-!["Normalização"](caso Bikeshop.png)
+!["Normalização"](casoBikeshop_excel.png)
