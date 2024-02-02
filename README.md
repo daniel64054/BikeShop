@@ -109,7 +109,7 @@ operações de negócios necessária
 
  ### Modelo Conceitual
 
- !["modelo coneceitual de banco de dados"](modelo-conceitual-casa-oliveira.png)
+ !["modelo coneceitual de banco de dados"](caso Bikeshop.png)
 
 
 ### Normalização feita no Excel. 
